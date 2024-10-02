@@ -2,24 +2,6 @@
 
 This project demonstrates a simple neural network built using PyTorch for classifying handwritten digits from the MNIST dataset.
 
-## Steps to Run the Project
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/mnist_classification.git
-    cd mnist_classification
-    ```
-
-2. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the main script:
-    ```bash
-    python main.py
-    ```
-
 ## Project Structure
 
 - `data_loader.py`: Contains code for loading and preprocessing the MNIST dataset.
